@@ -59,5 +59,10 @@
 }
  .div-second{
     background-color: aquamarine;
-    
+
+ }
+ .discription {
+    background-color: azure;
+    text-align: center;
+    text-shadow: 0cap;
  }
